@@ -29,12 +29,4 @@ jQuery(document).ready(function($){
 		}
 	});
 
-	// magnific popup
-	$('.gallery-item').magnificPopup({
-		type: 'image',
-		gallery:{
-			enabled:true
-		}
-	});
-
 });
